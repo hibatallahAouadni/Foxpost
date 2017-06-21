@@ -2,5 +2,4 @@
 # Foxpost module
 .idea
 *.iml
-out
-gen
+.idea/workspace.xml
