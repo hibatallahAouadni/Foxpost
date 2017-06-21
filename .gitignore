@@ -1,0 +1,6 @@
+# Created by .ignore support plugin
+# Foxpost module
+.idea
+*.iml
+out
+gen
